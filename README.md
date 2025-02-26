@@ -21,10 +21,11 @@ This is a simple React application that includes a counter with increment and de
 /your-project-root
 │── /src
 │   ├── /components
-│   │   ├── ButtonInput.js
-│   │   ├── NavBar.js
-│   ├── App.js
-│   ├── index.js
+│   │   ├── ButtonInput.jsx
+│   │   ├── NavBar.jsx
+|   |   ├── Counter.jsx
+│   ├── App.jsx
+├── index.js
 │── package.json
 │── README.md
 ```
